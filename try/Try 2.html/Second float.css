@@ -1,0 +1,64 @@
+body{
+    background-color: indigo;
+    color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+    width: 100%;
+
+
+}
+#queue{
+    border: 2px solid blue;
+    margin: 10px;
+    padding: 10px;
+    background-color: aquamarine;
+    color: red;
+    width: 90%;
+    
+}
+.kwame, .akua, .afia, .kwesi{
+    width: 100px;
+    height: 100px;
+    text-align:  center;
+    line-height: 100px ;
+    margin-bottom: 8px;
+    cursor: pointer;
+    transition: width 2s;
+}
+#yaw{
+    background-color: azure;
+    transition: width 2s;
+}
+#akua{
+    background-color: goldenrod;  
+}
+#afia{
+    background-color: rgb(125, 32, 218);  
+}
+
+#kwesi{
+    background-color: gray;  
+}
+#yaw{
+    float: right
+}
+#akua{
+    clear: right;
+}
+#akua{
+    float: right;
+}
+#afia{
+    clear: right;
+}
+#afia{
+    float: right;
+}
+#kwesi{
+    clear: right;
+}
+#kwesi{
+    float: right;
+}
+#empty{
+    clear: right;
+}

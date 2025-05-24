@@ -1,0 +1,74 @@
+ body{
+    background-color: blueviolet;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 100%;
+}
+.queue{
+    border: 1px  solid red;
+    margin: 10px;
+    padding: 5px;
+    background-color: burlywood;
+    color: blue;
+    width: 90%;
+}
+.rose{
+    background-color: red;
+    color: white;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    margin-bottom: 5px;
+ 
+
+}
+.collins{
+    background-color: gold;    width: 100px;
+    height: 100px;
+    text-align: center;
+    margin-bottom: 5px;
+}
+.kajdija{
+    background-color: blueviolet;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    margin-bottom: 5px;
+}
+.rose{
+    float: right;
+}
+.collins{
+    clear: right;
+}
+.collins{
+    float: right;
+}
+.kajdija{
+    clear: right;
+}
+.kajdija{
+    float: right;
+}
+.empty{
+    clear: right;
+}
+.rose{
+    float: left;
+}
+.collins{
+    clear: left;
+}
+.collins{
+    float: left;
+}
+.kajdija{
+    clear: left;
+}
+.kajdija{
+    float: left;
+
+}
+.empty{
+    clear: both;
+}
